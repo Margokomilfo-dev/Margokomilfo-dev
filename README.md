@@ -1,8 +1,9 @@
-Hi there 👋 I'm Belarusian girl 🙋 from Poland (Wrocław)
+Hi there 👋 I'm Belarusian girl 🙋 from Poland 
 My name is Rita (Margo) and I very glad to see you here!
 
-A few details about myself:
+---
 
+A few details about myself:
 * 🔭 I’m currently remote worker, working as a front-end developer in "IT-incubator" 
 * 🌱 I’m currently learning... mmmm... I'm always something learning =) But.. now 👇🏼
 * ❤️ I’m in love with React/Redux, TypeScript and JavaScript!
