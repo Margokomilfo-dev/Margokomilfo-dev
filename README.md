@@ -11,7 +11,7 @@ A few details about myself:
 * 📌 I’m open to work.
 * 😍 I love reading books in foreign languages, doing sport and spending time with my family
 * 📫 How to reach me: [write me email](mailto:margokomilfo.dev@gmail.com)
-* 😄 My CV + portfolio: https://margokomilfo-dev.github.io/my-cv/
+* 💼 My CV + portfolio: https://margokomilfo-dev.github.io/my-cv/
 * ⚡ My motto: I'll win not immediately BUT DEFINITELY!
 
 Have a nice day, my friend!!! ☀️
