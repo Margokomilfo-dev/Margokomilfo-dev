@@ -1,4 +1,4 @@
-Hi there 👋 I'm Belarusian girl 🙋 from Poland 
+Hi there 👋 I'm a Belarusian girl 🙋 from Poland 
 
 My name is Margo and I very glad to see you here!
 
